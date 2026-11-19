@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "notes": "邮件提示提速至秒级（60秒轮询+快速头阵）；自动碎碎念与天气余额降频至每2小时",
+  "url": "https://raw.githubusercontent.com/Marcus78-super/email-sentinel-pet-updates/main/update_v1.1.0.zip",
+  "digest": "sha256:b7d887bce05ef6dcccb279ec5f9679c2715d8dda70b7fb4885bda650b7c9d4fc",
+  "sig": "ES-BB2AFQLD-2ZCJ22DI-IS6JBHV6-FH6GY4FR-JTBSHYHV-EV3SFS73-A7UIRY35-UCRSHWHM-U7AB4SC7-NUJLOAHH-QKOF4PB7-3CHCTFAP-ALIZDW5Z-LHNLQE2A-575T5RHR-ZSSODUDR-ECDCIK3U-JLLCF24J-3JA37RDJ-E6UGZ3PW-N7XLRJFQ-QYHLRYQ5-4FEOHAPH-KN6KQFKS-AWMVIZOV-RBB7U"
+}
