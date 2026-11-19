@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "notes": "邮件提示提速至秒级（60秒轮询+快速头阵）；自动碎碎念与天气余额降频至每2小时",
-  "url": "https://raw.githubusercontent.com/Marcus78-super/email-sentinel-pet-updates/main/update_v1.1.0.zip",
-  "digest": "sha256:b7d887bce05ef6dcccb279ec5f9679c2715d8dda70b7fb4885bda650b7c9d4fc",
-  "sig": "ES-BB2AFQLD-2ZCJ22DI-IS6JBHV6-FH6GY4FR-JTBSHYHV-EV3SFS73-A7UIRY35-UCRSHWHM-U7AB4SC7-NUJLOAHH-QKOF4PB7-3CHCTFAP-ALIZDW5Z-LHNLQE2A-575T5RHR-ZSSODUDR-ECDCIK3U-JLLCF24J-3JA37RDJ-E6UGZ3PW-N7XLRJFQ-QYHLRYQ5-4FEOHAPH-KN6KQFKS-AWMVIZOV-RBB7U"
+  "version": "2.0.0",
+  "notes": "气泡式登录向导（女仆引导填授权码/key/Gmail）；桌面快捷方式（女仆图标）；邮件秒级提示",
+  "url": "https://raw.githubusercontent.com/Marcus78-super/email-sentinel-pet-updates/main/update_v2.0.0.zip",
+  "digest": "sha256:837c0256a5a6a670f3e124d580dcab479414eb99ba681de74e49cbe40ad2c48b",
+  "sig": "ES-BQN6DZM4-F75TINDR-CCVSPFJT-RHIREBPW-K6BKJQQS-CYJDESNU-BCPUMVYR-HNDYDEGC-VMWSXXSZ-JOU34LYY-QK6J3WIU-CMIDAZOE-FMBOPHDQ-T7P4TG2W-LGOP6YGU-CK2UWIS5-AAYHCVI2-FUXXSLXC-H7F6CIC4-SVWULDWQ-FF3TSA5J-PQRHTZRP-IM5YTBYX-I4WJSFV5-E74KNXSN-OVSC2"
 }
